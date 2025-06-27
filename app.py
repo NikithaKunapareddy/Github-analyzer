@@ -22,12 +22,14 @@ st.markdown(
     """
     <style>
     body, .stApp {
-        background: linear-gradient(135deg, #b7baff 0%, #e0c3fc 100%) !important;
+        background: #e9e4f0 !important;
         font-family: 'Poppins', 'Segoe UI', 'Roboto', sans-serif;
     }
     .block-container {
         padding-top: 2rem;
         padding-bottom: 2rem;
+        background: none !important;
+        box-shadow: none !important;
     }
     .css-1v0mbdj, .stButton>button {
         background: linear-gradient(90deg, #7f7fd5 0%, #e0c3fc 100%) !important;
